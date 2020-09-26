@@ -47,12 +47,12 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  
+  matrix_lookup = [
   
 CONVENTIONAL_PRODUCE.sort,
 ORGANIC_PRODUCE.sort
 
- 
+ ]
  produce_storage_room[1][3]
 
   
