@@ -53,7 +53,7 @@ CONVENTIONAL_PRODUCE.sort,
 ORGANIC_PRODUCE.sort
 ]
  
- produce_storage_room[1][2]
+ produce_storage_room[1][3]
 
   
 #   # Given any matrix (array of arrays), a row index and a column index, 
