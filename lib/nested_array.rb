@@ -49,8 +49,8 @@ def matrix_lookup(matrix, row, column)
   
   produce_storage_room =[
   
-CONVENTIONAL_PRODUCE.sort,
-ORGANIC_PRODUCE.sort
+CONVENTIONAL_PRODUCE,
+ORGANIC_PRODUC
 ]
  
  produce_storage_room[1][2]
