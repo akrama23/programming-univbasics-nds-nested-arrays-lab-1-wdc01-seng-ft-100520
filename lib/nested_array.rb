@@ -35,19 +35,8 @@ def sorted_matrix
 
 produce_storage_room =[
   
-  conventional_produce = [
-  "Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant" ],
-   
-  organic_produce = [
-  "Strawberries",
-  "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"     ]
+CONVENTIONAL_PRODUCE,
+ORGANIC_PRODUCE
 ]
 # produce_storage_room.sort 
 
