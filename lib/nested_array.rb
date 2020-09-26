@@ -47,7 +47,13 @@ end
 
 def matrix_lookup(matrix, row, column)
   
+  produce_storage_room =[
   
+CONVENTIONAL_PRODUCE.sort,
+ORGANIC_PRODUCE.sort
+]
+ 
+ produce_storage_room[0][1]
   
 #   # Given any matrix (array of arrays), a row index and a column index, 
 #   # Return the matrix's content at that row and and column
