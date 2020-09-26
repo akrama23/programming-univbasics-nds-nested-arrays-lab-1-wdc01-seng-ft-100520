@@ -59,6 +59,8 @@ ORGANIC_PRODUCE
 #   # Return the matrix's content at that row and and column
 end
 
+produce_storage_room[0][0]
+
 # def matrix_update(matrix, row, column, new_value)
 #   # Given any matrix (array of arrays), a row index and a column index, 
 #   # Update the matrix location at that row and column to have the value of new_value
