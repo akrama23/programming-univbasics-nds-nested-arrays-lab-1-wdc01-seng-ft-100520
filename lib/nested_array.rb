@@ -31,24 +31,24 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
 end
 
-# def sorted_matrix
+def sorted_matrix
 
-# produce_storage_room =[
+produce_storage_room =[
   
-#   conventional_produce = [
-#   "Grapefruit",
-#   "Pineapple",
-#   "Oranges",
-#   "Watermelon",
-#   "Eggplant" ],
+  conventional_produce = [
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant" ],
    
-#   organic_produce = [
-#   "Strawberries",
-#   "Potatoes",
-#   "Grapes",
-#   "Avocadoes",
-#   "Asparagus"     ]
-# ]
+  organic_produce = [
+  "Strawberries",
+  "Potatoes",
+  "Grapes",
+  "Avocadoes",
+  "Asparagus"     ]
+]
 # produce_storage_room.sort 
 
 #   # Using Array literal syntax only, build another nested array that 
