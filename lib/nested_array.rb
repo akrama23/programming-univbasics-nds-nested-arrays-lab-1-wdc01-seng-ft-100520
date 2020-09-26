@@ -47,13 +47,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  matrix_lookup = [
-  
-CONVENTIONAL_PRODUCE.sort,
-ORGANIC_PRODUCE.sort
-
- ]
-matrix_lookup[1][3]
+  matrix_lookup.sort[1,1]
 
   
 #   # Given any matrix (array of arrays), a row index and a column index, 
